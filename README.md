@@ -35,7 +35,7 @@ and ticket price.
 - Departure and arrival time analysis
 - Source and destination city analysis
 - Airline and class comparison
-- 
+
 ## Project Highlights
 
 - Analyzed 300,153 flight records to identify airline ticket pricing patterns.
